@@ -1,0 +1,4 @@
+User input
+Break and continue and pass -continue example 1 to 100 divisible by 3 skip
+exception handling
+linear search 
